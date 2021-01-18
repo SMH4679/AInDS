@@ -1,2 +1,2 @@
 # AInDS
-AInDS Class
+this is AInDS Class
